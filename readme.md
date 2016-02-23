@@ -1,10 +1,10 @@
 ![](http://i.imgur.com/37qCdyS.png)
-
 Glorytales Music Collection
 ===========================
 
+**[Preview Playlist Here!](https://soundcloud.com/0xabad1dea/sets/glorytales-free-music-for)** To download the whole set, use a git client or click "Download ZIP" in the upper-right corner of this page. To save an individual song file, go to the [tracks folder](https://github.com/0xabad1dea/glorytales/tree/master/tracks), click on the one you want, then right-click and save-as the "view raw" link.
 
-This is a collection of fantasy soundtrack music composed by [@0xabad1dea](https://twitter.com/0xabad1dea) and licensed under [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/). What this means is that you may:
+This is a growing collection of fantasy soundtrack music composed by [@0xabad1dea](https://twitter.com/0xabad1dea) and licensed under [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/). What this means is that you may:
 
 – Incorporate the songs into anything, such as a video game, a movie, a school project, etc
 
@@ -25,6 +25,8 @@ The naming convention is as follows: `001-BombasticOpening-100BPM-noloop.mp3` wh
 Any synthetic voices are singing absolute nonsense or benign public domain texts.
 
 I have a neurological condition which makes it difficult for me to judge how loud something will seem to the average person. If it seems wrong to you, it probably is, feel free to open an issue.
+
+I will not accept pull requests to this repository with other composers' music. Glorytales is my personal art project.
 
 # Tracklist
 
