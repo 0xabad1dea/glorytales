@@ -55,3 +55,10 @@ I will not accept pull requests to this repository with other composers' music. 
 **012 – Ominous Overworld Drone** For empty, haunted wastelands.
 
 **013 – Long Road** A caravan crosses the wilderness.
+
+
+# Pico-8 Music!
+
+I hate tracker interfaces and I hate how the engine pops and hisses like it's getting paid but here ya go maybe there will be more because I can actually work on these in bed, a major advantage when I'm perpetually this sick. May port some to high fidelity / port in the chippy direction too.
+
+**Pico 001 – Wistful Waltz** [raw p8](https://0xabad1dea.github.io/pico8/wistful.p8)/[preview html5](https://0xabad1dea.github.io/pico8/wistful.html) 9 patterns/6 song slots
