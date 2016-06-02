@@ -61,4 +61,6 @@ I will not accept pull requests to this repository with other composers' music. 
 
 I hate tracker interfaces and I hate how the engine pops and hisses like it's getting paid but here ya go maybe there will be more because I can actually work on these in bed, a major advantage when I'm perpetually this sick. May port some to high fidelity / port in the chippy direction too.
 
-**Pico 001 – Wistful Waltz** [raw p8](https://0xabad1dea.github.io/pico8/wistful.p8)/[preview html5](https://0xabad1dea.github.io/pico8/wistful.html) 9 patterns/6 song slots
+**Pico 001 – Wistful Waltz** [raw p8](https://0xabad1dea.github.io/pico8/wistful.p8)/[preview html5](https://0xabad1dea.github.io/pico8/wistful.html) 9 patterns/6 song slots/3 channels
+
+**Pico 002 – Castle Ruins** [raw p8](http://0xabad1dea.github.io/pico8/castleruins.p8)/[preview html5](http://0xabad1dea.github.io/pico8/castleruins.html) 10 patterns/8 song slots/3 channels
