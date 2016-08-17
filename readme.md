@@ -56,11 +56,15 @@ I will not accept pull requests to this repository with other composers' music. 
 
 **013 – Long Road** A caravan crosses the wilderness.
 
+**014 – Cat's-Eye Waltz** A romantic, dashing figure.
+
 
 # Pico-8 Music!
 
-I hate tracker interfaces and I hate how the engine pops and hisses like it's getting paid but here ya go maybe there will be more because I can actually work on these in bed, a major advantage when I'm perpetually this sick. May port some to high fidelity / port in the chippy direction too.
+I've found that I can work with the Pico-8 tracker on my tiny laptop when I'm sick in bed which is basically always so these are easier to produce. The raw export wav encoded as mp3 are in tracks/pico8. I will try to get around to redoing any I particularly like in full soundfont glory.
 
-**Pico 001 – Wistful Waltz** [raw p8](https://0xabad1dea.github.io/pico8/wistful.p8)/[preview html5](https://0xabad1dea.github.io/pico8/wistful.html) 9 patterns/6 song slots/3 channels
+**Pico 001 – Wistful Waltz** [raw p8](https://0xabad1dea.github.io/pico8/wistful.p8)/[preview html5](https://0xabad1dea.github.io/pico8/wistful.html) 9 patterns/6 song slots/3 channels. I think this sounds like if the (round shy ghosts) from (successful platformer franchise) had a party 
 
-**Pico 002 – Castle Ruins** [raw p8](http://0xabad1dea.github.io/pico8/castleruins.p8)/[preview html5](http://0xabad1dea.github.io/pico8/castleruins.html) 10 patterns/8 song slots/3 channels
+**Pico 002 – Castle Ruins** [raw p8](http://0xabad1dea.github.io/pico8/castleruins.p8)/[preview html5](http://0xabad1dea.github.io/pico8/castleruins.html) 10 patterns/8 song slots/3 channels. Pretty dramatic
+
+**Pico 003 – Raindrops** [raw p8](https://0xabad1dea.github.io/pico8/raindrops.p8)/[preview html5](https://0xabad1dea.github.io/pico8/raindrops.html) I forget patterns/8 song slots/3 channels. I originally wrote this on impulse for a friend's colorful platformer proof of concept
